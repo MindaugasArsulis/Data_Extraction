@@ -1,0 +1,86 @@
+
+2019-02-01_14:36:53
+
+2019-02-01:
+There are no direct flights this day
+
+2019-02-02:
+There are no direct flights this day
+
+2019-02-03:
+From OSL to RIX. Flight leaves 18:45, arrives 21:15: Lowest Price = $123.20, taxes: $23.40
+
+2019-02-04:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $48.70, taxes: $23.40
+
+2019-02-05:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $54.80, taxes: $23.40
+
+2019-02-06:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $54.80, taxes: $23.40
+
+2019-02-07:
+From OSL to RIX. Flight leaves 18:45, arrives 21:15: Lowest Price = $457.50, taxes: $23.40
+
+2019-02-08:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $172.00, taxes: $23.40
+
+2019-02-09:
+There are no direct flights this day
+
+2019-02-10:
+From OSL to RIX. Flight leaves 18:45, arrives 21:15: Lowest Price = $74.40, taxes: $23.40
+
+2019-02-11:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $48.70, taxes: $23.40
+
+2019-02-12:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $48.70, taxes: $23.40
+
+2019-02-13:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $62.20, taxes: $23.40
+
+2019-02-14:
+From OSL to RIX. Flight leaves 18:45, arrives 21:15: Lowest Price = $220.80, taxes: $23.40
+
+2019-02-15:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $196.40, taxes: $23.40
+
+2019-02-16:
+There are no direct flights this day
+
+2019-02-17:
+From OSL to RIX. Flight leaves 18:45, arrives 21:15: Lowest Price = $98.80, taxes: $23.40
+
+2019-02-18:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $86.60, taxes: $23.40
+
+2019-02-19:
+There are no direct flights this day
+
+2019-02-20:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $54.80, taxes: $23.40
+
+2019-02-21:
+From OSL to RIX. Flight leaves 18:45, arrives 21:15: Lowest Price = $86.60, taxes: $23.40
+
+2019-02-22:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $111.00, taxes: $23.40
+
+2019-02-23:
+There are no direct flights this day
+
+2019-02-24:
+From OSL to RIX. Flight leaves 11:40, arrives 14:10: Lowest Price = $54.80, taxes: $23.40
+
+2019-02-25:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $48.70, taxes: $23.40
+
+2019-02-26:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $48.70, taxes: $23.40
+
+2019-02-27:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $48.70, taxes: $23.40
+
+2019-02-28:
+From OSL to RIX. Flight leaves 11:20, arrives 13:50: Lowest Price = $54.80, taxes: $23.40
